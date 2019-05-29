@@ -174,3 +174,4 @@ As of April 5, 2017, Parse, LLC has transferred this code to the parse-community
 [license-svg]: https://img.shields.io/badge/license-BSD-lightgrey.svg
 [license-link]: LICENSE
 [open-collective-link]: https://opencollective.com/parse-server
+
