@@ -28,6 +28,3 @@ Parse.Cloud.define('APPS', async(request) => {
 })
     
 
-    var = lesson function function_name(argument) {
-    	// body...
-    }
